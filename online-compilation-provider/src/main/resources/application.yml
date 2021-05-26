@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: online-compilation-provider
+
+server:
+  port: 9001
+
+
